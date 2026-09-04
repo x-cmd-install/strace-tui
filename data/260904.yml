@@ -7,7 +7,7 @@ about:
   head: ffa9d60
   archived: false
   latestVersion: v1.0.1
-  collectedAt: 2026-09-04T19:53:03Z
+  collectedAt: 2026-09-04T20:54:40Z
 timeline:
   created: 2026-02-17
   lastCommit: 2026-04-03
@@ -80,5 +80,28 @@ total:
   openIssue: 0
   commit: 71
 ---
+path: /home/runner/.x-repo/github.com/Rodrigodd/strace-tui
+collectedAt: 2026-09-04T20:54:41Z
+loc:
+  Rust:
+    code: 4697
+    comments: 418
+    blanks: 783
+    files: 17
+  Toml:
+    code: 39
+    comments: 2
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 37
+    blanks: 21
+    files: 1
+total:
+  code: 4743
+  comments: 578
+  blanks: 810
+  files: 19
 ---
 
