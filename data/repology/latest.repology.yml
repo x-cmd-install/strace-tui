@@ -1,0 +1,102 @@
+- repo: alpine_3_24
+  subrepo: community
+  srcname: strace-tui
+  binname: strace-tui
+  visiblename: strace-tui
+  version: 1.0.1
+  origversion: 1.0.1-r0
+  status: newest
+  summary: terminal user interface for visualizing and exploring strace output
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: strace-tui
+  binname: strace-tui-doc
+  visiblename: strace-tui-doc
+  version: 1.0.1
+  origversion: 1.0.1-r0
+  status: newest
+  summary: terminal user interface for visualizing and exploring strace output (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: strace-tui
+  binname: strace-tui
+  visiblename: strace-tui
+  version: 1.0.1
+  origversion: 1.0.1-r0
+  status: newest
+  summary: terminal user interface for visualizing and exploring strace output
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: strace-tui
+  binname: strace-tui-doc
+  visiblename: strace-tui-doc
+  version: 1.0.1
+  origversion: 1.0.1-r0
+  status: newest
+  summary: terminal user interface for visualizing and exploring strace output (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: aur
+  srcname: strace-tui
+  binname: strace-tui
+  visiblename: strace-tui
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: newest
+  summary: A terminal user interface (TUI) for visualizing and exploring strace output
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: aur
+  srcname: strace-tui-bin
+  binname: strace-tui-bin
+  visiblename: strace-tui-bin
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: newest
+  summary: A terminal user interface (TUI) for visualizing and exploring strace output - Binary build
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: strace-tui-git
+  binname: strace-tui-git
+  visiblename: strace-tui-git
+  version: 1.0.1.r1.gd70b4bf
+  origversion: 1.0.1.r1.gd70b4bf-1
+  status: rolling
+  summary: A terminal user interface (TUI) for visualizing and exploring strace output
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - Apache
+    - MIT
+- repo: nix_unstable
+  srcname: strace-tui
+  visiblename: strace-tui
+  version: 1.0.1
+  origversion: null
+  status: newest
+  summary: A terminal user interface (TUI) for visualizing and exploring strace output
+  maintainers:
+    - pol.dellaiera@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
