@@ -45,12 +45,12 @@ Total: **10,475** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 18 |
-| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 18 |
-| last180d | 2026-05-06 | 0 | 0 | 0 | 0 | 0 | 20 |
-| 360d | 2025-11-07 | 2 | 0 | 0 | 3 | 0 | 91 |
-| last720d | 2024-11-12 | 2 | 0 | 0 | 3 | 0 | 91 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 18 |
+| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 18 |
+| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 20 |
+| 360d | 2025-11-08 | 2 | 0 | 0 | 3 | 0 | 91 |
+| last720d | 2024-11-13 | 2 | 0 | 0 | 3 | 0 | 91 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for strace-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:13:37Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:45:55Z._
