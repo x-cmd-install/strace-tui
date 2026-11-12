@@ -30,7 +30,7 @@
   binname: strace-tui
   visiblename: strace-tui
   version: 1.0.1
-  origversion: 1.0.1-r0
+  origversion: 1.0.1-r1
   status: newest
   summary: terminal user interface for visualizing and exploring strace output
   maintainers:
@@ -43,7 +43,7 @@
   binname: strace-tui-doc
   visiblename: strace-tui-doc
   version: 1.0.1
-  origversion: 1.0.1-r0
+  origversion: 1.0.1-r1
   status: newest
   summary: terminal user interface for visualizing and exploring strace output (documentation)
   maintainers:
